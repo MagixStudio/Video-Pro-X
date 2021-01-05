@@ -10,7 +10,7 @@
 * RAM - 8 GB or more
 * Disk space - 10 GB free space
 
-![alt-текст](https://graydonschwartz.com/wp-content/uploads/2019/10/gif_AI-Sky-Replacement_3.gif "Luminar4")
+![alt-текст](https://i.imgur.com/HlgzBru.png "Video Pro X")
 
 ## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
 
