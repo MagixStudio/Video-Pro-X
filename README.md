@@ -10,7 +10,7 @@
 * RAM - 8 GB or more
 * Disk space - 10 GB free space
 
-![alt-текст](https://i.imgur.com/HlgzBru.png "Video Pro X")
+![alt-текст] (https://i.imgur.com/HlgzBru.png "Video Pro X")
 ## PROFESSIONAL VIDEO EDITING FOR EVERYONE Video Pro X is the only video editing software that makes professional video production accessible for everyone. With intuitive editing tools and workflows, getting started with Video Pro X is easier than with any other professional video editor. The new video engine allows for seamless, uninterrupted editing of high-resolution 4K Ultra HD material on any PC.
 ![alt-текст] (https://i.imgur.com/M7eX2vO.png)
 ## Video Pro X has always stood for technological innovation above and beyond industry standard. 
